@@ -37,7 +37,7 @@ Can you analyse the following data to find out all about the tournament?
 9. What are the team names and the number of players in each team whose salary is greater than 100,000?
 10. What is the date and the score of the match with match_id = 3?
 
-## Click here for solution :https://github.com/SimranGodsey/Esports-Tournament/blob/main/Challenge%20No%20%3A%202
+## Click here for solution :[Here](https://github.com/SimranGodsey/Esports-Tournament/blob/main/Challenge%20No%20%3A%202)
 
 I have documented entire challenge on my medium page : 
 
