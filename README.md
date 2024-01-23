@@ -39,5 +39,5 @@ Can you analyse the following data to find out all about the tournament?
 
 ## Click here for solution :[Here](https://github.com/SimranGodsey/Esports-Tournament/blob/main/Challenge%20No%20%3A%202)
 
-I have documented entire challenge on my medium page: [Click](https://medium.com/@simrangodse18/esports-tournament-challenge-02-810f992bc6c5)
+## I have documented entire challenge on my medium page: [Click](https://medium.com/@simrangodse18/esports-tournament-challenge-02-810f992bc6c5)
 
