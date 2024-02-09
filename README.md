@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://www.steeldata.org.uk/esports.jpg">
 
-View the case study [HERE](https://www.steeldata.org.uk/sql2.html)
+View the case study [HERE](https://mattsteel87.wixsite.com/datacoach/steve-s-car-showroom-copy)
 
 
 ## Table Of Contents
